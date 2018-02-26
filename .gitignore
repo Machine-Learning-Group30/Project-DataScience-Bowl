@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Files too large for GitHub repo
+data/stage1_test/
+data/stage1_train/
